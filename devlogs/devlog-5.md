@@ -1,0 +1,2 @@
+## April 10, 2025 - Safe and Manager Logic
+Wrote the logic for tellers to access safe and manager using semaphores. Ensured mutual exclusion (2 in safe, 1 with manager). Simulated work via `sleep()`. Fully integrated teller-customer transaction.

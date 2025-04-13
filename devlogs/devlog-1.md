@@ -1,0 +1,2 @@
+## April 6, 2025 - Planning Phase
+Began reading the project prompt. Understood that synchronization using semaphores is key. Brainstormed about the different shared resources — safe (2 tellers), manager (1 teller), and door (2 customers). Planned to use Python's threading module.

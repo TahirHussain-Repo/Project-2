@@ -1,0 +1,2 @@
+## April 9, 2025 - Core Interaction Logic
+Implemented teller availability queue and logic for customers to find tellers. Added Event for bank opening. Started customer selection logic. Output logs are verifying interaction.

@@ -1,0 +1,2 @@
+## April 11, 2025 - Testing and Bug Fixing
+Ran test with 10 customers. Noticed race conditions on teller selection. Added locks around shared lists. Tested again and behavior is stable. Verified log sequence matches spec.

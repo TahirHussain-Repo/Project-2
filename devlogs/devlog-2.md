@@ -1,0 +1,2 @@
+## April 7, 2025 - Design Draft
+Outlined the Teller and Customer behaviors in pseudocode. Created notes on what events must be synchronized and how. Made decisions on what semaphores and locks were needed.

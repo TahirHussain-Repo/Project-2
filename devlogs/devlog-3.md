@@ -1,0 +1,2 @@
+## April 8, 2025 - Initial Code Setup
+Created a basic skeleton for `Teller` and `Customer` classes using threading.Thread. Set up logging format as required. Created named semaphores but did not wire logic yet.
